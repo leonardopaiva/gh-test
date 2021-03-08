@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1615217384217,
+  "timestamp": 1615217477408,
   "index": "https://leonardopaiva.github.io/gh-test/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://leonardopaiva.github.io/gh-test/favicon.ico",
         "https://leonardopaiva.github.io/gh-test/index.html",
-        "https://leonardopaiva.github.io/gh-test/main.809cf7d56a1191bd8a3b.js",
+        "https://leonardopaiva.github.io/gh-test/main.582233c964a205466aa5.js",
         "https://leonardopaiva.github.io/gh-test/manifest.webmanifest",
         "https://leonardopaiva.github.io/gh-test/polyfills.00096ed7d93ed26ee6df.js",
         "https://leonardopaiva.github.io/gh-test/runtime.7b63b9fd40098a2e8207.js",
@@ -52,8 +52,8 @@
     "https://leonardopaiva.github.io/gh-test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://leonardopaiva.github.io/gh-test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://leonardopaiva.github.io/gh-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://leonardopaiva.github.io/gh-test/index.html": "f70c07795d4583bcc2fda7d0a2aa83c360fe4fee",
-    "https://leonardopaiva.github.io/gh-test/main.809cf7d56a1191bd8a3b.js": "760ee8f535242bcd92e8bcdbe98ac00b15dd7ea1",
+    "https://leonardopaiva.github.io/gh-test/index.html": "d73ab17def1f4c3794d4518da94db4901ca67722",
+    "https://leonardopaiva.github.io/gh-test/main.582233c964a205466aa5.js": "80cb4be164aeb696ec290d6c0dae6454793c9874",
     "https://leonardopaiva.github.io/gh-test/manifest.webmanifest": "61dffcd31cd357123062c0c5dfc6f4653bef1915",
     "https://leonardopaiva.github.io/gh-test/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "https://leonardopaiva.github.io/gh-test/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
