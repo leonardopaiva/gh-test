@@ -13,7 +13,8 @@
     "build:ssr": "ng build --prod && ng run my-dream-app:server:production",
     "prerender": "ng run my-dream-app:prerender",
     "start-pwa": "ng build --prod && http-server -p 8080 -c-1 dist/my-dream-app/browser/",
-    "deploy-gh": "npx gh-pages -d dist/my-dream-app/browser/"
+    "predeploy": "ng build --prod --base-href=/my-dream-app/browser/",
+    "deploy": "npx gh-pages -d dist/my-dream-app/browser/"
   },
   "private": true,
   "dependencies": {
