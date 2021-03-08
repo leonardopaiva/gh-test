@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'my-dream-app bbbbb ccc ddd';
 
   teste() {
-    alert(1);
+    alert(2);
   }
 }
